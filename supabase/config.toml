@@ -1,0 +1,4 @@
+project_id = "peropzgbssdxpkdutsfw"
+
+[functions.memory-echo]
+verify_jwt = false
